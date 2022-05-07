@@ -1,4 +1,4 @@
-## Eae! Sou o Marques!
+## Eae! Me chamo Marques!
 
 - 🔭 Meta ser Front-end
 - 📫 contate-me no email: contatomarques0041@gmail.com
