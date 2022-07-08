@@ -1,14 +1,12 @@
 ## Eae! Me chamo Marques!
-
 - 🔭 Meta ser Front-end
 - 💻 Tudo começou como um hobby!
 - ⚡ Curiosidade: Quase fui jogador profissional de R6
-
+<div>
   <a href="https://github.com/Marques0041">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marques0041&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marques0041&layout=compact&langs_count=16&theme=radical"/>
 </div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Marques0041-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marques0041-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
