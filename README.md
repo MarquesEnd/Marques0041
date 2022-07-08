@@ -1,12 +1,12 @@
 ## Eae! Me chamo Marques!
 
 - 🔭 Meta ser Front-end
-- 📫 contate-me no email: contatomarques0041@gmail.com
+- 💻 Tudo começou como um hobby!
 - ⚡ Curiosidade: Quase fui jogador profissional de R6
 
   <a href="https://github.com/Marques0041">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marques0041&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marques0041&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marques0041&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marques0041&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -26,10 +26,10 @@
   <a href="https://www.youtube.com/channel/UCDgECjOLkUjkIBCfsm5GigA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/Marques0041" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/Marques0041" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/Rushy (50% Mecanic)#1681" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.gg/Marques0041(Rushy)#1681" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatomarques0041@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg
 
  
 </div>
